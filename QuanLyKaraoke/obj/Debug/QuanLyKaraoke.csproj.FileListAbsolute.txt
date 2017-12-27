@@ -1,0 +1,696 @@
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+D:\CNPM\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Admin.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.LoaiPhong.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Nhansu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.ChiTietDichVu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLiDichVu.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Admin.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.ChiTietDichVu.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.LoaiPhong.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Nhansu.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLiDichVu.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+C:\Users\USER\Downloads\Quanlykaraoke\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Admin.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.ChiTietDichVu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.LoaiPhong.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Nhansu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLiDichVu.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+C:\Users\phucxp12vn\Downloads\Quanlykaraoke (1)\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Admin.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.ChiTietDichVu.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.LoaiPhong.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Nhansu.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLiDichVu.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+C:\Users\USER\Downloads\KaraokeQuanLy\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Admin.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.ChiTietDichVu.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.LoaiPhong.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Nhansu.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLiDichVu.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+C:\Users\phucxp12vn\Desktop\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Images.v17.2.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Data.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Utils.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraBars.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\DevExpress.Office.v17.2.Core.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Admin.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.ChiTietDichVu.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DangNhap.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DichVu.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.DoiPhong.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.HoaDon.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.LoaiPhong.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Nhansu.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.NhanVien.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLiDichVu.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.QuanLyDatPhong.resources
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.Cache
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe.licenses
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.CodeAnalysisLog.xml
+E:\Đồ án CNPM\Quanlykaraoke3011\Quanlykaraoke3011\Quanlykaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.lastcodeanalysissucceeded

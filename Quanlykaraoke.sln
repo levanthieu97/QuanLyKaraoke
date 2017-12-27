@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyKaraoke", "QuanLyKaraoke\QuanLyKaraoke.csproj", "{2E268130-31C3-4915-A7E6-F5DFB1BD3C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{CC7808F3-D960-48EA-863D-5BE0DC2F7A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E268130-31C3-4915-A7E6-F5DFB1BD3C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E268130-31C3-4915-A7E6-F5DFB1BD3C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E268130-31C3-4915-A7E6-F5DFB1BD3C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E268130-31C3-4915-A7E6-F5DFB1BD3C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7808F3-D960-48EA-863D-5BE0DC2F7A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7808F3-D960-48EA-863D-5BE0DC2F7A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7808F3-D960-48EA-863D-5BE0DC2F7A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7808F3-D960-48EA-863D-5BE0DC2F7A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D2B8EB-2D3B-436E-BFAF-626A4A837099}
+	EndGlobalSection
+EndGlobal
